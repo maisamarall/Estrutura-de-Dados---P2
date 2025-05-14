@@ -22,3 +22,8 @@ As principais funcionalidades implementadas são:
 * **Listagem de Livros Disponíveis:** Exibe todos os livros que estão atualmente disponíveis para empréstimo.
 * **Listagem de Livros Emprestados por Usuário:** Permite visualizar todos os livros que um determinado usuário tem emprestados.
 
+* ## Observações
+
+Este sistema foi desenvolvido como um projeto para a disciplina de Estrutura de Dados, com o objetivo de aplicar os conceitos aprendidos em sala de aula na criação de uma aplicação prática.
+
+
