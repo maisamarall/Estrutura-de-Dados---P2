@@ -1,4 +1,4 @@
-# Sistema de Controle de Biblioteca - CLI Python
+# Sistema de Controle de Biblioteca - CLI Python 📚
 
 ## Integrantes
 
