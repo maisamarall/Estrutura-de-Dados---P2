@@ -22,7 +22,8 @@ As principais funcionalidades implementadas são:
 * **Listagem de Livros Disponíveis:** Exibe todos os livros que estão atualmente disponíveis para empréstimo.
 * **Listagem de Livros Emprestados por Usuário:** Permite visualizar todos os livros que um determinado usuário tem emprestados.
 
-  ## Justificativa da Escolha de Cada Estrutura de Dados:
+## Justificativa da Escolha de Cada Estrutura de Dados:
+.........
 
 * ## Observações:
 
