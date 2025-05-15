@@ -1,15 +1,15 @@
 # Sistema de Controle de Biblioteca - CLI Python 📚
 
-## Integrantes
+## Integrantes:
 
 * Jênie Danielle - RA: 1993310
 * Maisa Amaral - RA: 1997058
 * Simone Siqueira - RA: 2001915
 
-## Requisitos de Execução
+## Requisitos de Execução:
 ...........
 
-## O Que e Como o Sistema Faz
+## O Que e Como o Sistema Faz:
 
 Este sistema de controle de biblioteca é uma aplicação de linha de comando (CLI) desenvolvida em Python para gerenciar o acervo de uma biblioteca, os usuários cadastrados e os processos de empréstimo e devolução de livros.
 
@@ -22,7 +22,9 @@ As principais funcionalidades implementadas são:
 * **Listagem de Livros Disponíveis:** Exibe todos os livros que estão atualmente disponíveis para empréstimo.
 * **Listagem de Livros Emprestados por Usuário:** Permite visualizar todos os livros que um determinado usuário tem emprestados.
 
-* ## Observações
+  ## Justificativa da Escolha de Cada Estrutura de Dados:
+
+* ## Observações:
 
 Este sistema foi desenvolvido como um projeto para a disciplina de Estrutura de Dados, com o objetivo de aplicar os conceitos aprendidos em sala de aula na criação de uma aplicação prática.
 
